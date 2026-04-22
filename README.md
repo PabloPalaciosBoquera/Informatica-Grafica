@@ -1,1 +1,1 @@
-# Inform-tica-Gr-fica
+# Informatica-Grafica
